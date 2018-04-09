@@ -12,7 +12,7 @@ Index cards with variable names and values. Write the variable name on one half 
 
 Example of index card with variable names:
 
-|
+variable name (exclude this line on index card)|
 --|
 cookies |
 pizza toppings |
@@ -20,7 +20,7 @@ fruits |
 
 Example of index card with values:
 
-|
+values (exclude this line on index card)|
 --|
 pepperoni, mushroom, bacon |
 tangerines, lychee, apples |
